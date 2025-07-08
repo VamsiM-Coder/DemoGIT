@@ -1,0 +1,20 @@
+Good Evening Sir, I am glad to be here, Thankyou sir for allowing me to introduce myself.
+
+I am vamsi and i am recently completed bachelors degree in computer science from svce Andhrapradesh.
+
+I am expertise in full stack java development,SQL and web technologies.
+
+I have a passion to create projects using jdbc, hibernate and Spring boot and i really excited to apply these skills to real time projects at survey sparrow.
+
+I have worked on creating restFul API web services allowing to perform CRUD OPerations on student management system using spring boot.
+
+In my Free Timee, i actively solving coding problems in hackerrank and leetcode.
+
+My Achievements till date is
+
+1.Google Maps Hackathon
+2.I am part of DSA Team for my college, and i mentored juniors in problem-solving and programming.
+
+That's all about me,
+
+Thankyou.
