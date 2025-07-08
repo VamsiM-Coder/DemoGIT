@@ -8,7 +8,7 @@ I have a passion to create projects using jdbc, hibernate and Spring boot and i 
 
 I have worked on creating restFul API web services allowing to perform CRUD OPerations on student management system using spring boot.
 
-In my Free Timee, i actively solving coding problems in hackerrank and leetcode.
+In my Free Time, i actively solving coding problems in hackerrank and leetcode.
 
 My Achievements till date is
 

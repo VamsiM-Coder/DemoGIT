@@ -9,6 +9,15 @@ class Vehicle2:
 class Vehicle3(Vehicle1, Vehicle2):
     def start(self):
         Vehicle2.start(self)
+
+class Bike(Vehicle1):
+    def start(self):
+        super().start()
+        print("Bike is Movingg..")        
+        
     
-obj = Vehicle3()
-obj.start()            
+obj1 = Vehicle3()
+obj1.start() 
+print("--------")
+obj2 = Bike()
+obj2.start()           
