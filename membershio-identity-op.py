@@ -1,4 +1,4 @@
-# membership operator (tuple,lisr,strings)
+# membership operator (tuple,list,strings)
 ''' in operator: Evaluates TRUE if variable present in sequence '''
 ''' not in operator: Evaluates TRUE if variable is not present in sequence'''
 
