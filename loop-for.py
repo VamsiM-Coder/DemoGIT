@@ -2,8 +2,8 @@
 '''
    range(start, stop, step)
    
-   start,step : optional
-''' 
+   start,step : (optional)
+'''
 
 for _ in range(5): # stop
     print( _ , end =" ")
